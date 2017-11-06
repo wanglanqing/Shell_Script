@@ -4,8 +4,8 @@
 echo 'drop hydt_bcm/hydt_bcm_act/ofdb'
 
 export MYSQL_HOST=$ETH0_IP
-export MYSQL_ROOT_PASS=iHYDT2014
-export MYSQL_HYDT_BCM_PASS=hydt_bcm
+export MYSQL_ROOT_PASS=iHYDTxx
+export MYSQL_HYDT_BCM_PASS=hydt_xx
 
 #删除pe数据库
 actsql='drop database hydt_bcm_act;'

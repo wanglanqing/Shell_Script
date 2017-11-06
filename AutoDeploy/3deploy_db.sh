@@ -7,7 +7,7 @@
 ##############################
 
 #数据库服务器地址
-DB_Server = 123.57.56.121
+DB_Server = 123.57.56.1xx
 
 echo '[INFO] Drop database/tables.'
 ssh root@$DB_Server "drop_database.sh"

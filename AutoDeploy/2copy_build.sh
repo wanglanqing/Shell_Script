@@ -7,10 +7,10 @@
 #######################
 
 #tomcat服务器地址
-Web_Server=123.57.155.12
+Web_Server=123.57.155.xx
 
 #数据库服务器地址
-DB_Server=123.57.56.121
+DB_Server=123.57.56.1xx
 
 #数据库服务器数据库版本文件存放目录
 DB_path=/home/hydt/BCM_release

@@ -8,7 +8,7 @@
 ##############################
 
 #web应用服务器地址
-Web_Server = 123.57.155.12
+Web_Server = 123.57.155.xx
 
 echo '[INFO] Deploy web service , PE/APPGW/CSSS/MDS/AE.'
 ssh root@$Web_Server "deploy.sh"
